@@ -7,10 +7,3 @@ Le quiz connaît ses favoris : brownie, jus d’ananas, vert canard et Nadia Fad
 ## Ouvrir
 Ouvre `index.html` dans un navigateur récent. Garde les fichiers avec le dossier `photo`. La musique démarre après un clic. L’illustration du ciel est intégrée à la page; le lien vers les archives NASA nécessite une connexion Internet.
 
-## Partager par WhatsApp
-Publie le dossier complet `birthday` (HTML, CSS, JavaScript et `photo`) sur GitHub Pages ou Netlify, puis partage l’adresse obtenue. Cette page n’a pas été publiée.
-
-## Personnaliser
-Les prénoms, la date de naissance et la date anniversaire à utiliser se règlent dans l’objet `CONFIG` au début de `script.js`. Le contenu du quiz et les réponses sont dans `tasteQuestions`.
-
-La frise du ciel utilise les heures UTC. Les positions zodiacales indiquées sont à midi UTC; l’heure et le lieu de naissance préciseraient la position de la Lune. Références : https://eclipse.gsfc.nasa.gov/OH/OH2004.html et https://www.selfgazer.com/sky/date/2004-10-14
